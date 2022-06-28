@@ -1,5 +1,6 @@
 ## Virtual Environment Setup
 ![](trained_agent.gif)
+
 Following https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html to install and set up conda. I set `auto_activate_base` to false so that it doesn't activate everytime I open my machine.
 ```
 conda config --set auto_activate_base false
