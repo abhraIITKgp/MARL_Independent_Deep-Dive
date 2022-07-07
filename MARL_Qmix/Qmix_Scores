@@ -1,0 +1,34 @@
+QMIX Scores (metric is Win Rate):
+---------------------------------
+
+
+EPISODE 500 STEPS 500 GPU:
+max-max: Train- 0.414 ; Test- 0.380
+min-max: Train- ; Test- 
+max-min: Train- ; Test- 
+min-min: Train- 0.380 ; Test- 0.360
+----------------------------------------
+
+
+EPISODE 500 STEPS 1000 GPU:
+max-max: Train-  ; Test- 
+min-max: Train- ; Test- 
+max-min: Train- ; Test- 
+min-min: Train- ; Test- 
+----------------------------------------
+
+
+EPISODE 500 STEPS 1500 GPU:
+max-max: Train-  ; Test- 
+min-max: Train- ; Test- 
+max-min: Train- ; Test- 
+min-min: Train- ; Test- 
+----------------------------------------
+
+
+EPISODE 500 STEPS 2000 GPU:
+max-max: Train-  ; Test- 
+min-max: Train- ; Test- 
+max-min: Train- ; Test- 
+min-min: Train- ; Test- 
+----------------------------------------
